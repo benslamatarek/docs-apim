@@ -1,3 +1,4 @@
+[WSO2 API Manager est une plateforme open source complète qui facilite la création.docx](https://github.com/wso2/docs-apim/files/14010892/WSO2.API.Manager.est.une.plateforme.open.source.complete.qui.facilite.la.creation.docx)
 # Key Concepts
 
 | **Concept**                            | **Description**                                                  |
